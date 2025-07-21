@@ -1,0 +1,3 @@
+YearsExperience,EducationLevel,Age,Certifications,PreviousCompanies,PerformanceRating,WorkingHours,LeavesTaken,RemoteWork,JobRole,Location,TechStack,Department,Gender,EmploymentType,PredictedSalary_ML,PredictedSalary_DL
+5,3,32,2,1,4,45,5,1,Lead,Hyderabad,Python,IT,Male,FullTime,28045.057459551863,30031.77
+8,4,39,3,2,5,48,2,0,Manager,Bangalore,Java,Finance,Female,Contract,39904.987982435785,36924.023

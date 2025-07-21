@@ -1,0 +1,16 @@
+YearsExperience,EducationLevel,Age,JobRole,Location,Certifications,PreviousCompanies,PerformanceRating,TechStack,Department,WorkingHours,LeavesTaken,Gender,EmploymentType,RemoteWork
+5,3,32,Lead,Hyderabad,2,1,4,Python,IT,45,5,Male,FullTime,1
+8,4,39,Manager,Bangalore,3,2,5,Java,Finance,48,2,Female,Contract,0
+12,5,45,Director,Pune,4,3,4,SQL,Operations,50,8,Other,PartTime,1
+2,2,25,Analyst,Mumbai,1,0,3,JavaScript,HR,40,10,Male,FullTime,0
+15,4,50,Engineer,Chennai,3,2,5,Python,IT,42,3,Female,Contract,1
+20,5,55,Consultant,Delhi,5,4,4,Java,Admin,55,15,Other,PartTime,0
+7,3,30,Manager,Hyderabad,2,1,3,SQL,Finance,46,6,Male,FullTime,1
+10,3,35,Engineer,Bangalore,2,1,4,JavaScript,Operations,49,4,Female,Contract,0
+25,5,60,Director,Pune,4,3,5,Python,HR,52,12,Other,PartTime,1
+3,1,28,Analyst,Mumbai,1,0,2,Java,IT,38,7,Male,FullTime,0
+18,4,52,Lead,Chennai,3,2,4,SQL,Finance,47,5,Female,Contract,1
+6,2,29,Engineer,Delhi,1,0,3,JavaScript,Operations,43,9,Other,PartTime,0
+11,4,40,Consultant,Hyderabad,4,3,5,Python,HR,51,11,Male,FullTime,1
+14,3,48,Manager,Bangalore,3,2,4,Java,IT,53,6,Female,Contract,0
+9,5,33,Analyst,Pune,2,1,3,SQL,Admin,44,8,Other,PartTime,1

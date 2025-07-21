@@ -336,7 +336,7 @@ if st.button("Calculate Salary Prediction 🚀", help="Click to get the estimate
 
         st.markdown(f"""
             <div class="predicted-salary-box">
-                Estimated Salary: <strong>${predicted_salary:,.2f}</strong> 
+                Estimated Salary: <strong>₹{predicted_salary:,.2f}</strong> 
                 
             </div>
         """, unsafe_allow_html=True)
